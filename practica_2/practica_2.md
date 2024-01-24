@@ -14,4 +14,4 @@ Script que solicita al usuario un caracter y lo clasifica en: letra, numero o ca
 Script que solicita al usuario el nombre de un directorio y escribe por pantalla el numero de ficheros y directorios que contiene dicho directorio.
 
 ## Ejercicio 6
-Script que copia todos los archivos regulares y ejecutables del directorio de trabajo actual a un directorio de nombre binXXX (donde X es un caracter alfanumerico). Si no existe ningun directorio que cumpla con esos requisitos, se creara un fichero temporal que los cumpla. Finalmente el script indicara cantos ficheros han sido copiados.
+Script que copia todos los archivos regulares y ejecutables del directorio de trabajo actual a un directorio de nombre binXXX (donde X es un caracter alfanumerico) en el directorio $HOME. Si no existe ningun directorio que cumpla con esos requisitos, se creara un fichero temporal que los cumpla. Finalmente el script indicara cantos ficheros han sido copiados.
